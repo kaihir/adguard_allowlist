@@ -1,0 +1,8 @@
+click.oneplus.cn
+open.oneplus.net
+metrics.data.hicloud.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+logservice.hicloud.com
+logservice1.hicloud.com
+logbak.hicloud.com
